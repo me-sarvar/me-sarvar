@@ -19,10 +19,10 @@ developer_info = {
         "Clot", "Derma Doctor", "Media Downloader"
     ],
     "tech_stack": {
-        "languages": ["HTML", "CSS", "JavaScript", "Dart", "Python", "Java", "Go"],
-        "frameworks": ["Flutter", "Django", "FastAPI"],
+        "languages": ["Java Script", "Dart", "Python", "Java", "Go"],
+        "frameworks": ["Flutter", "Django", "ReactJS"],
         "databases": ["PostgreSQL", "MongoDB", "Supabase", "Firebase"],
-        "devops": ["Docker", "GCP", "Linux"],
+        "devops": ["Docker", "GCP","AWS", "Linux"],
         "vcs": ["Git", "GitHub"]
     }
 }
