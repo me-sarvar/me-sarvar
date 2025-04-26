@@ -5,8 +5,6 @@
 developer_info = {
     "name": "Sarvar",
     "occupation": "Flutter, Django & Telegram Bot Developer",
-    "country": "Uzbekistan",
-    "education": "Graduated SCHU | CSE",
     "started_coding": 2019,
     "current_learning": ["Flutter", "Golang", "Machine Learning"],
     "interests": [
