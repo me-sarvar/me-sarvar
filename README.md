@@ -1,4 +1,4 @@
-![Header](./header-5.png)
+![Header](./header-5.jpg)
 
 
 ```python
