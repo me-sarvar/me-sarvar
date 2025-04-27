@@ -4,9 +4,8 @@
 ```python
 developer_info = {
     "name": "Sarvar",
-    "occupation": "Flutter, Django & Telegram Bot Developer",
-    "started_coding": 2019,
-    "current_learning": ["Flutter", "Golang", "Machine Learning"],
+    "occupation": "Flutter Developer",    
+    "current_learning": ["Golang", "Machine Learning"],
     "interests": [
         "Cloud (GCP, AWS, Azure)",
         "Docker",
