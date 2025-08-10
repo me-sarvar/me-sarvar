@@ -90,7 +90,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # Icons (duplicate, you might remove this if already above)
+      # Icons (second time - optional, remove if duplicate)
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
@@ -111,3 +111,12 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 0
           plugin_starlists_only: Awesome
+
+      # Classic metrics (your new step)
+      - name: Classic metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
