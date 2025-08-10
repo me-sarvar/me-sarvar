@@ -5,10 +5,4 @@
 
 ![GitHub Activity](metrics.plugin.activity.svg)
 
-<!-- ![Stargazers World Map](metrics.plugin.stargazers.worldmap.svg) -->
-
 ![Activity Calendar Full Year](metrics.plugin.isocalendar.fullyear.svg)
-
----
-
-
