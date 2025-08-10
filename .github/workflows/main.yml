@@ -88,7 +88,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
       # Icons (second time - optional, remove if duplicate)
       - uses: lowlighter/metrics@latest
